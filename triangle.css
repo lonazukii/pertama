@@ -1,0 +1,39 @@
+body{
+	width:auto;
+	height:auto;
+	background:grey;
+	font-family:hobo std;
+	margin:0px;  
+}
+
+.header{
+	width: auto;
+	height: 130px;
+	margin-bottom: 20px;
+	background: orange;
+}
+
+.navigasi{
+	width: 500px;
+	height: 50px;
+	background: orange;
+	border-top:5px solid black;
+	border-bottom:5px solid black;
+	border-left:5px solid black;
+	border-right:5px solid black;
+	border-radius: 20px;
+	float: middle;
+}
+
+.navigasi ul{
+	list-style: none;
+	padding:0px;
+	margin:0px;
+	
+}
+
+.navigasi ul li{
+	float: left;
+	padding: 20px;
+	border-spacing: 20px;
+}
